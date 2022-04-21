@@ -24,6 +24,7 @@ class Post extends Model
         return $this->likes->contains('user_id', $user->id);//collection method
     }
 
+
     public function likes()
     {
         return $this->hasMany(Like::class);
