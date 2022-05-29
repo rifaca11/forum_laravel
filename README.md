@@ -74,4 +74,4 @@ Un support de présentation du brief (le 20 avril 2022) .
 
 
 ### Trello
-https://trello.com/b/dIreUcWB/forum
+[https://trello.com/b/dIreUcWB/forum](https://trello.com/invite/b/dIreUcWB/b8edc7e8895fee60ae14f7376eea78e9/forum)
