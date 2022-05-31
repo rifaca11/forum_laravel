@@ -75,3 +75,6 @@ Un support de présentation du brief (le 20 avril 2022) .
 
 ### Trello
 [https://trello.com/b/dIreUcWB/forum](https://trello.com/invite/b/dIreUcWB/b8edc7e8895fee60ae14f7376eea78e9/forum)
+
+### Lien de présentation 
+https://www.canva.com/design/DAFCQ6K48mU/A_mZwZmTsbAtlnFXlGSWGg/view?utm_content=DAFCQ6K48mU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
